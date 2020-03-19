@@ -3,3 +3,5 @@
 ## https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook
 
 ## https://learn-blazor.com/getting-started/what-is-blazor/
+
+## https://blazor.radzen.com/styling-chart
