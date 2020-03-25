@@ -9,3 +9,5 @@
 ## https://dotnet.microsoft.com/learn/aspnet/architecture#ebook-blazor-for-web-forms-devs-swimlane
 
 ## https://dotnet.microsoft.com/learn/dotnet/architecture-guides
+
+## http://blazordeskshow.com/
