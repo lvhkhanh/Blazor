@@ -1,4 +1,6 @@
 # Blazor
+## Ebooks
+### https://www.syncfusion.com/ebooks/blazor-succinctly
 
 ## https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook
 
