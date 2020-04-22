@@ -1,6 +1,9 @@
 # Blazor
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/blazor-succinctly
+## Issues
+### Certificate
+### SQL
 ## Terminal Outputs
 ```
 Welcome to .NET Core 3.1!
