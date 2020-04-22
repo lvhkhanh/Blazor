@@ -1,6 +1,8 @@
 # Blazor
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/blazor-succinctly
+## Courses
+### https://www.pluralsight.com/search?q=blazor
 ## Run
 ```
 dotnet dev-certs https --trust
