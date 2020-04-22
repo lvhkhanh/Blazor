@@ -1,6 +1,11 @@
 # Blazor
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/blazor-succinctly
+## Run
+```
+dotnet dev-certs https --trust
+dotnet run
+```
 ## Issues
 ### Certificate
 ### SQL
