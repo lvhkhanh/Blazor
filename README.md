@@ -1,8 +1,28 @@
 # Blazor
+## Roadmaps
+### Mobile
+#### https://stackoverflow.blog/2020/02/26/whats-behind-the-hype-about-blazor/
+#### https://devblogs.microsoft.com/aspnet/mobile-blazor-bindings-experiment/
+#### https://chrissainty.com/getting-started-with-mobile-blazor-bindings/
+#### https://www.dylanberry.com/2020/02/05/mobile-blazor-bindings-getting-started-why-you-should-care/
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/blazor-succinctly
 ## Courses
 ### https://www.pluralsight.com/search?q=blazor
+## Links
+### https://blazor-university.com/overview/what-is-blazor/
+
+### https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook
+
+### https://learn-blazor.com/getting-started/what-is-blazor/
+
+### https://blazor.radzen.com/styling-chart
+
+### https://dotnet.microsoft.com/learn/aspnet/architecture#ebook-blazor-for-web-forms-devs-swimlane
+
+### https://dotnet.microsoft.com/learn/dotnet/architecture-guides
+
+### http://blazordeskshow.com/
 ## Run
 ```
 dotnet dev-certs https --trust
@@ -46,14 +66,3 @@ Write your first app: https://aka.ms/first-net-core-app
 Done: 0.
 
 ```
-## https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook
-
-## https://learn-blazor.com/getting-started/what-is-blazor/
-
-## https://blazor.radzen.com/styling-chart
-
-## https://dotnet.microsoft.com/learn/aspnet/architecture#ebook-blazor-for-web-forms-devs-swimlane
-
-## https://dotnet.microsoft.com/learn/dotnet/architecture-guides
-
-## http://blazordeskshow.com/
