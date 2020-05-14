@@ -24,7 +24,9 @@
 
 ### http://blazordeskshow.com/
 ## Build
-Download .Net Core
+[Download .Net Core](https://dotnet.microsoft.com/download)
+
+Get template dotnet new blazorwasm
 ```
 dotnet new blazorwasm -o <ProjectName> --pwa --hosted 
 ```
