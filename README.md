@@ -23,6 +23,8 @@
 ### https://dotnet.microsoft.com/learn/dotnet/architecture-guides
 
 ### http://blazordeskshow.com/
+## Build
+Download .Net Core
 ## Run
 ```
 dotnet dev-certs https --trust
