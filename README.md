@@ -25,6 +25,9 @@
 ### http://blazordeskshow.com/
 ## Build
 Download .Net Core
+```
+dotnet new blazorwasm -o <ProjectName> --pwa --hosted 
+```
 ## Run
 ```
 dotnet dev-certs https --trust
