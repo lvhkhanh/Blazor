@@ -1,4 +1,6 @@
 # Blazor
+## Official
+### https://channel9.msdn.com/Events/Build/2020/BOD104
 ## Roadmaps
 ### Mobile
 #### https://stackoverflow.blog/2020/02/26/whats-behind-the-hype-about-blazor/
