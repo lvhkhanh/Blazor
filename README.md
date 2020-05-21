@@ -77,3 +77,6 @@ Write your first app: https://aka.ms/first-net-core-app
 Done: 0.
 
 ```
+## Utilities
+### Json generate data notation attribute
+### Database schema generate notation attribute
