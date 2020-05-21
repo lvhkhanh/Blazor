@@ -82,3 +82,4 @@ Done: 0.
 ### Database schema generate notation attribute
 ### NuGet blazorinputfile upload file
 ### i10n i18n @localize
+### IndexedDB offline database
