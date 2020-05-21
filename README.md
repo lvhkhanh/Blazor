@@ -81,3 +81,4 @@ Done: 0.
 ### Json generate data notation attribute
 ### Database schema generate notation attribute
 ### NuGet blazorinputfile upload file
+### i10n i18n @localize
