@@ -80,3 +80,4 @@ Done: 0.
 ## Utilities
 ### Json generate data notation attribute
 ### Database schema generate notation attribute
+### NuGet blazorinputfile upload file
