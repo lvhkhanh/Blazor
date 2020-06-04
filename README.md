@@ -10,6 +10,7 @@
 ## Ebooks
 ### https://www.syncfusion.com/ebooks/blazor-succinctly
 ## Courses
+### https://app.pluralsight.com/library/courses/creating-blazor-components/recommended-courses
 ### https://www.pluralsight.com/search?q=blazor
 ## Links
 ### https://blazor.radzen.com/googlemap
