@@ -15,7 +15,7 @@
 ## Links
 ### https://blazor.radzen.com/googlemap
 ### https://devblogs.microsoft.com/visualstudio/building-a-progressive-web-app-with-blazor/
-### https://blazor-university.com/overview/what-is-blazor/
+### https://blazor-university.com/
 
 ### https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook
 
