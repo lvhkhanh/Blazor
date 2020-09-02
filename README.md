@@ -8,6 +8,7 @@
 #### https://chrissainty.com/getting-started-with-mobile-blazor-bindings/
 #### https://www.dylanberry.com/2020/02/05/mobile-blazor-bindings-getting-started-why-you-should-care/
 ## Ebooks
+### https://www.syncfusion.com/ebooks/blazor_webassembly_succinctly
 ### https://www.syncfusion.com/ebooks/blazor-succinctly
 ## Courses
 ### https://app.pluralsight.com/library/courses/creating-blazor-components/recommended-courses
