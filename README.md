@@ -54,8 +54,8 @@ Possible reasons for this include:
 ## Map
 |   |Blazor   |Angular   |   |   |
 |---|---|---|---|---|
-|   |[Parameter]   |@Input()   |   |   |
-|   |   |   |   |   |
+|Pass data from parent   |`[Parameter]`   |`@Input()`   |   |   |
+|Data binding   |`@varName`   |`{{varName}}`   |   |   |
 |   |   |   |   |   |
 ## Issues
 ### Certificate
