@@ -56,7 +56,7 @@ Possible reasons for this include:
 |---|---|---|---|---|
 |Pass data from parent   |`[Parameter]`   |`@Input()`   |   |   |
 |Data binding   |`@varName`   |`{{varName}}`   |   |   |
-|   |   |   |   |   |
+|Two-way binding   |`<input @bind="varName" @bind:event="oninput">`   |`<input [(ngmodel)]="varName">`   |   |   |
 ## Issues
 ### Certificate
 ### SQL
